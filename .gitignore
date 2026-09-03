@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.jpg
+*.jpeg
+*.png
+faces/
+interaction_log.json
